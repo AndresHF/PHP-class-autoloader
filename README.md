@@ -5,5 +5,4 @@ This is a completely automatic class loader.
 This file structure should be at root folder.
 
 # Made by
-Esberfes
-AndresHF
+Esberfes and AndresHF
